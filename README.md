@@ -85,5 +85,3 @@
 <br>
 
 
-## 배포 주소
-http://ec2-43-203-210-146.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui/index.html#/
