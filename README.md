@@ -84,4 +84,118 @@
 [소프트웨어 아키텍처](https://github.com/beyond-sw-camp/be06-2nd-FIIIIIVE-ZIP_POP/wiki/6.-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98) 
 <br>
 
+## 🎥 프로젝트 시연
+
+
+<details>
+  <summary>💁🏻 고객</summary>
+
+  <details>
+  <summary>회원가입</summary>
+	  
+![고객회원가입 (2)](https://github.com/user-attachments/assets/a8191acc-2d51-4129-87ea-648b990994f2)
+
+  일반 회원으로 새로운 계정을 생성합니다.
+</details>
+
+
+  <details>
+    <summary>로그인</summary>
+
+![일반회원로그인_1](https://github.com/user-attachments/assets/bb7cc7a8-d2ac-48fe-9456-f86ef2b21136)
+
+일반 회원 계정으로 로그인합니다.
+</details>
+
+  <details>
+    <summary>로그아웃</summary>
+
+![일반회원로그아웃](https://github.com/user-attachments/assets/fc307bb4-aadd-4404-944a-db89fbdc44f2)
+
+현재 로그인된 세션을 종료하고 쿠키를 삭제합니다.
+</details>
+
+  <details>
+    <summary>찜한 팝업</summary>
+
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c350d15b-b0a4-4999-89b0-35734ad35b9a)
+
+사용자가 관심 있는 팝업을 조회하고 삭제할 수 있습니다.
+</details>
+
+<details>
+    <summary>장바구니</summary>
+
+![장바구니 (1)](https://github.com/user-attachments/assets/0a1d3b8a-82a7-42fd-a943-ebb33f9541fe)
+
+
+사용자가 구매를 원하는 굿즈들을 담아두는 공간으로, 나중에 한꺼번에 결제할 수 있습니다.
+<br>
+상품의 수량을 조정하거나 삭제할 수 있으며, 상품의 가격과 총 금액을 확인할 수 있습니다.
+</details>
+
+  
+
+<details>
+    <summary>마이페이지</summary>
+
+![마이페이지](https://github.com/user-attachments/assets/f23c9feb-8279-44c9-b945-ab010bdedeaa)
+
+개인화된 페이지로 이동하여 여러 기능을 이용할 수 있습니다.
+  </details>
+
+ <details>
+    <summary>결제</summary>
+    
+![굿즈구매](https://github.com/user-attachments/assets/df36d14a-f913-4d0e-a609-87e359ab98d1)
+
+  
+고객이 선택한 굿즈에 대한 결제를 처리합니다.
+  </details>
+
+  <details>
+    <summary>채팅</summary>
+
+  ![채팅](https://github.com/user-attachments/assets/7a4ec0dc-9a9e-4898-a491-6aa2120c4243)
+     일반회원과 기업회원사이에 채팅을 할 수 있습니다.
+  </details>
+
+
+  
+</details>
+
+<br>
+<details>
+  <summary>🏢 기업</summary>
+
+  <details>
+    <summary>회원가입</summary>
+	  
+![기업회원가입 (2)](https://github.com/user-attachments/assets/60d019a2-c660-45a4-b5f4-471eca4792d1)
+기업 회원으로 새로운 계정을 생성합니다.
+
+   
+  </details>
+
+  <details>
+    <summary>로그인</summary>
+
+![기업회원로그인_1](https://github.com/user-attachments/assets/728ff701-818e-4b81-917a-662a18212019)
+기업 회원 계정으로 로그인합니다.
+</details>
+
+
+  <details>
+    <summary>팝업관리</summary>
+
+![ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/a6b0f1ec-9509-4f34-8beb-b47284106679)
+
+기업이 진행하는 팝업을 등록합니다.
+</details>
+  
+
+
+</details>
+<br>
+
 
